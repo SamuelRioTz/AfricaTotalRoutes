@@ -1,152 +1,21 @@
 Lagos -> 1 possible match
-	 Lagos  ->  2  routes 
+	 Lagos  ->  1  routes 
 Kinshasa -> 1 possible match
-	 Kinshasa  ->  0  routes 
+	 Kinshasa  ->  3  routes 
 Cairo -> 1 possible match
-	 محافظة القاهرة  ->  1  routes 
+	 محافظة القاهرة  ->  9  routes 
 Giza Governorate -> 1 possible match
-	 محافظة الجيزة‎  ->  0  routes 
+	 محافظة الجيزة‎  ->  3  routes 
 Johannesburg -> 0 possible match
 Nairobi -> 1 possible match
 	 Nairobi  ->  6  routes 
 Alexandria -> 1 possible match
-	 الإسكندرية  ->  1  routes 
+	 الإسكندرية  ->  23  routes 
 Abidjan -> 1 possible match
-	 Abidjan  ->  424  routes 
+	 Abidjan  ->  15  routes 
 Dar es Salaam -> 1 possible match
-	 Dar es Salaam  ->  323  routes 
+	 Dar es Salaam  ->  6  routes 
 Casablanca -> 1 possible match
-	 Casablanca-Settat ⵜⵉⴳⵎⵉ ⵜⵓⵎⵍⵉⵍⵜ-ⵙⵟⵟⴰⵜ الدار البيضاء-سطات  ->  151  routes 
+	 Casablanca-Settat ⵜⵉⴳⵎⵉ ⵜⵓⵎⵍⵉⵍⵜ-ⵙⵟⵟⴰⵜ الدار البيضاء-سطات  ->  9  routes 
 Cape Town -> 0 possible match
-Algiers -> 1 possible match
-	 Alger  ->  109  routes 
-Addis Ababa -> 1 possible match
-	 አዲስ አበባ / Addis Ababa  ->  113  routes 
-Kano -> 1 possible match
-	 Kano  ->  0  routes 
-Luanda -> 1 possible match
-	 Luanda  ->  0  routes 
-Ibadan -> 0 possible match
-Aba -> 0 possible match
-Kumasi -> 0 possible match
-Douala -> 0 possible match
-Omdurman -> 0 possible match
-Yaoundé -> 0 possible match
-Bamako -> 1 possible match
-	 Bamako  ->  210  routes 
-Lusaka -> 1 possible match
-	 Lusaka Province  ->  118  routes 
-Pretoria -> 0 possible match
-Conakry -> 1 possible match
-	 Conakry  ->  2  routes 
-Mogadishu -> 0 possible match
-Kampala -> 1 possible match
-	 Kampala  ->  11  routes 
-Mombasa -> 1 possible match
-	 Mombasa  ->  0  routes 
-Harare -> 1 possible match
-	 Harare Province  ->  0  routes 
-Lomé -> 1 possible match
-	 Lomé  ->  17  routes 
-Ouagadougou -> 0 possible match
-Khartoum -> 1 possible match
-	 ولاية الخرطوم  ->  1  routes 
-Brazzaville -> 1 possible match
-	 Brazzaville  ->  0  routes 
-Antananarivo -> 0 possible match
-Lubumbashi -> 0 possible match
-Kisumu -> 1 possible match
-	 Kisumu  ->  0  routes 
-Mbuji-Mayi -> 0 possible match
-Shubra el-Kheima -> 0 possible match
-Dakar -> 0 possible match
-Benin City -> 0 possible match
-Fez -> 1 possible match
-	 Fès-Meknès ⴼⴰⵙ-ⵎⴽⵏⴰⵙ فاس-مكناس  ->  10  routes 
-Bujumbura -> 2 possible match
-	 Bujumbura Rural  ->  0  routes 
-	 Bujumbura Mairie  ->  1  routes 
-Freetown -> 0 possible match
-Maputo -> 2 possible match
-	 Cidade de Maputo  ->  258  routes 
-	 Maputo  ->  165  routes 
-Monrovia -> 0 possible match
-Khartoum North -> 1 possible match
-	 ولاية الخرطوم  ->  1  routes 
-Port Harcourt -> 0 possible match
-Lilongwe -> 1 possible match
-	 Lilongwe  ->  0  routes 
-Niamey -> 1 possible match
-	 Niamey  ->  0  routes 
-Nouakchott -> 1 possible match
-	 نواكشوط  ->  0  routes 
-N'Djamena -> 1 possible match
-	 N'Djaména انجمينا  ->  0  routes 
-Tangier -> 1 possible match
-	 Tanger-Tétouan-Al Hoceima ⵟⴰⵏⵊ-ⵟⵉⵜⴰⵡⵉⵏ-ⵍⵃⵓⵙⵉⵎⴰ طنجة-تطوان-الحسيمة  ->  73  routes 
-Tripoli [1] -> 0 possible match
-Marrakesh -> 0 possible match
-Salé -> 1 possible match
-	 Rabat-Salé-Kénitra ⵔⴱⴰⵟ-ⵙⵍⴰ-ⵇⵏⵉⵟⵔⴰ الرباط-سلا-القنيطرة  ->  14  routes 
-Port Elizabeth -> 0 possible match
-Kigali -> 1 possible match
-	 Umujyi wa Kigali  ->  82  routes 
-Jos -> 0 possible match
-Oran -> 1 possible match
-	 وهران  ->  0  routes 
-Blantyre -> 1 possible match
-	 Blantyre  ->  0  routes 
-Ilorin -> 0 possible match
-Abuja -> 0 possible match
-Asmara -> 0 possible match
-Port Said -> 1 possible match
-	 ‏بورسعيد  ->  0  routes 
-Kaduna -> 1 possible match
-	 Kaduna  ->  0  routes 
-Touba -> 0 possible match
-Hargeisa -> 0 possible match
-Suez -> 1 possible match
-	 الغربية  ->  0  routes 
-Soshanguve -> 0 possible match
-Enugu -> 1 possible match
-	 Enugu  ->  0  routes 
-Kananga -> 0 possible match
-Pointe-Noire -> 1 possible match
-	 Pointe-Noire  ->  0  routes 
-Mwanza -> 1 possible match
-	 Mwanza  ->  26  routes 
-Libreville -> 0 possible match
-Zaria -> 0 possible match
-Kisangani -> 0 possible match
-Cotonou -> 0 possible match
-Nampula -> 1 possible match
-	 Nampula  ->  0  routes 
-Bulawayo -> 1 possible match
-	 Bulawayo Province  ->  0  routes 
-Tunis -> 1 possible match
-	 تونس  ->  6  routes 
-Bangui -> 1 possible match
-	 Bangî - Bangui  ->  0  routes 
-Evaton -> 0 possible match
-Durban -> 0 possible match
-Beira -> 0 possible match
-Rabat -> 1 possible match
-	 Rabat-Salé-Kénitra ⵔⴱⴰⵟ-ⵙⵍⴰ-ⵇⵏⵉⵟⵔⴰ الرباط-سلا-القنيطرة  ->  14  routes 
-El Mansoura -> 0 possible match
-Benghazi [2] -> 0 possible match
-Warri -> 0 possible match
-El Mahalla el-Kubra -> 0 possible match
-Maiduguri -> 0 possible match
-Bouaké -> 0 possible match
-Ikorodu -> 0 possible match
-Aba -> 0 possible match
-Tanta -> 0 possible match
-Meknes -> 1 possible match
-	 Fès-Meknès ⴼⴰⵙ-ⵎⴽⵏⴰⵙ فاس-مكناس  ->  10  routes 
-Ife -> 0 possible match
-Zanzibar City -> 3 possible match
-	 Unguja Mjini Magharibi  ->  0  routes 
-	 Unguja Kaskazini  ->  0  routes 
-	 Unguja Kusini  ->  0  routes 
-Kitwe -> 0 possible match
-Nansana -> 0 possible match
+Error 429
