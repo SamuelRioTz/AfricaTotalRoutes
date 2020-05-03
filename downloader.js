@@ -69,7 +69,7 @@ function getPossibleOsmTags(city, country) {
         })
 }
 function getTotalRoutes(name) {
-    const query = `[out:json];area["admin_level"="4"]["name"="${name}"]->.boundaryarea;(relation["type"="route"]["route"~"trolleybus|minibus|share_taxi|train|light_rail|subway|tram|ferry"](area.boundaryarea););out count;`;
+    const query = `[out:json];area["admin_level"="4"]["name"="${name}"]->.boundaryarea;(relation["type"="route"]["route"~"bus|trolleybus|minibus|share_taxi|train|light_rail|subway|tram|ferry"](area.boundaryarea););out count;`;
     return overpassRequest(query)
         .then(value => {
             return parseInt(value.elements[0].tags.total)
