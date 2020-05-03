@@ -1,0 +1,2292 @@
+[
+    {
+        "Rank": 1,
+        "City": "Lagos",
+        "Country": " Nigeria",
+        "Population": "21,320,000",
+        "Date of Estimate": 2019,
+        "osm": [
+            {
+                "id": 3718182,
+                "tags": {
+                    "ISO3166-2": "NG-LA",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Lagos",
+                    "name:ar": "لاغوس",
+                    "name:ja": "ラゴス州",
+                    "name:ru": "Лагос",
+                    "name:uk": "Лагос",
+                    "name:zh": "拉哥斯",
+                    "source": "ehealthafrica.org",
+                    "source:date": "2013",
+                    "type": "boundary",
+                    "wikidata": "Q815913",
+                    "wikipedia": "en:Lagos State"
+                },
+                "totalRoutes": "2"
+            }
+        ]
+    },
+    {
+        "Rank": 2,
+        "City": "Kinshasa",
+        "Country": " Democratic Republic of the Congo",
+        "Population": "11,860,000",
+        "Date of Estimate": 2016,
+        "osm": [
+            {
+                "id": 5646651,
+                "tags": {
+                    "ISO3166-2": "CD-KN",
+                    "admin_level": "4",
+                    "admin_type:CD": "ville",
+                    "boundary": "administrative",
+                    "description": "province conservée en juin 2005",
+                    "name": "Kinshasa",
+                    "name:fr": "Kinshasa",
+                    "name:kg": "Kinsasa",
+                    "name:ln": "Kinsásá",
+                    "name:lua": "Cìnsansà",
+                    "name:sw": "Kinshasa",
+                    "timezone": "Africa/Kinshasa",
+                    "type": "boundary",
+                    "wikidata": "Q3838"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 3,
+        "City": "Cairo",
+        "Country": " Egypt",
+        "Population": "9,500,000",
+        "Date of Estimate": 2018,
+        "osm": [
+            {
+                "id": 4103336,
+                "tags": {
+                    "ISO3166-2": "EG-C",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "محافظة القاهرة",
+                    "name:ar": "محافظة القاهرة",
+                    "name:de": "Gouvernement al-Qahira",
+                    "name:en": "Cairo Governorate",
+                    "name:es": "El Cairo",
+                    "name:fr": "Gouvernorat du Caire",
+                    "name:hu": "Kairó kormányzóság",
+                    "name:lt": "Kairo muchafaza",
+                    "name:ru": "мухафаза Каир",
+                    "type": "boundary",
+                    "wikidata": "Q30805",
+                    "wikipedia": "ar:محافظة القاهرة"
+                },
+                "totalRoutes": "1"
+            }
+        ]
+    },
+    {
+        "Rank": 4,
+        "City": "Giza Governorate",
+        "Country": " Egypt",
+        "Population": "8,800,000",
+        "Date of Estimate": 2018,
+        "osm": [
+            {
+                "id": 3824206,
+                "tags": {
+                    "ISO3166-2": "EG-GZ",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "محافظة الجيزة‎",
+                    "name:de": "Gouvernement al-Dschiza",
+                    "name:en": "Giza Governorate",
+                    "name:eo": "Provinco Gizo",
+                    "name:es": "Guiza",
+                    "name:fr": "Gouvernorat de Gizeh",
+                    "name:hu": "Gíza kormányzóság",
+                    "name:pl": "Muhafaza Giza",
+                    "name:ru": "мухафаза Гиза",
+                    "type": "boundary",
+                    "wikidata": "Q30832"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 5,
+        "City": "Johannesburg",
+        "Country": " South Africa",
+        "Population": "5,640,000",
+        "Date of Estimate": 2019,
+        "osm": []
+    },
+    {
+        "Rank": 6,
+        "City": "Nairobi",
+        "Country": " Kenya",
+        "Population": "5,550,000",
+        "Date of Estimate": 2016,
+        "osm": [
+            {
+                "id": 3492709,
+                "tags": {
+                    "CONSTITUEN": "KAMUKUNJI",
+                    "CONST_CODE": "288",
+                    "COUNTY_COD": "47",
+                    "COUNTY_NAM": "NAIROBI",
+                    "ID_": "5543",
+                    "ISO3166-2": "KE-30",
+                    "OBJECTID": "1",
+                    "Shape_Area": "0.057422949",
+                    "Shape_Leng": "1.55978672217",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Nairobi",
+                    "name:ko": "나이로비",
+                    "type": "boundary",
+                    "wikidata": "Q3335223"
+                },
+                "totalRoutes": "6"
+            }
+        ]
+    },
+    {
+        "Rank": 7,
+        "City": "Alexandria",
+        "Country": " Egypt",
+        "Population": "5,200,000",
+        "Date of Estimate": 2018,
+        "osm": [
+            {
+                "id": 3061846,
+                "tags": {
+                    "ISO3166-2": "EG-ALX",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "الإسكندرية",
+                    "name:de": "Gouvernement Alexandria",
+                    "name:en": "Alexandria Governorate",
+                    "name:fr": "Gouvernorat d'Alexandrie",
+                    "name:hu": "Alexandria kormányzóság",
+                    "name:ru": "мухафаза Александрия",
+                    "type": "boundary",
+                    "wikidata": "Q29943"
+                },
+                "totalRoutes": "1"
+            }
+        ]
+    },
+    {
+        "Rank": 8,
+        "City": "Abidjan",
+        "Country": " Cote d'Ivoire",
+        "Population": "4,980,000",
+        "Date of Estimate": 2016,
+        "osm": [
+            {
+                "id": 3377982,
+                "tags": {
+                    "ISO3166-2": "CI-AB",
+                    "admin_level": "4",
+                    "border_type": "district",
+                    "boundary": "administrative",
+                    "comment": "please keep tagging in synch with the admin_centre node 1046100133 and the label node 2811123364",
+                    "name": "Abidjan",
+                    "name:af": "Abidjan",
+                    "name:als": "Abidjan",
+                    "name:ar": "أبيدجان",
+                    "name:bat-smg": "Abidžans",
+                    "name:be": "Абіджан",
+                    "name:be-tarask": "Абіджан",
+                    "name:bg": "Абиджан",
+                    "name:bn": "আবিজান",
+                    "name:br": "Abidjan",
+                    "name:bs": "Abidjan",
+                    "name:ca": "Abidjan",
+                    "name:cs": "Abidžan",
+                    "name:cy": "Abidjan",
+                    "name:da": "Abidjan",
+                    "name:de": "Abidjan",
+                    "name:el": "Αμπιτζάν",
+                    "name:en": "Abidjan",
+                    "name:eo": "Abiĝano",
+                    "name:es": "Abiyán",
+                    "name:et": "Abidjan",
+                    "name:eu": "Abidjan",
+                    "name:fa": "آبیجان",
+                    "name:fi": "Abidjan",
+                    "name:fr": "Abidjan",
+                    "name:gd": "Abidjan",
+                    "name:gl": "Abidjan",
+                    "name:gv": "Abidjan",
+                    "name:he": "אבידג'אן",
+                    "name:hr": "Abidjan",
+                    "name:hu": "Abidjan",
+                    "name:id": "Abidjan",
+                    "name:io": "Abidjan",
+                    "name:is": "Abidjan",
+                    "name:it": "Abidjan",
+                    "name:ja": "アビジャン",
+                    "name:jv": "Abidjan",
+                    "name:kab": "Abidjan",
+                    "name:ko": "아비장",
+                    "name:la": "Abidjan",
+                    "name:lmo": "Abidjan",
+                    "name:ln": "Abidjan",
+                    "name:lt": "Abidžanas",
+                    "name:lv": "Abidžāna",
+                    "name:mg": "Abidjan",
+                    "name:mk": "Абиџан",
+                    "name:ml": "അബിജാൻ",
+                    "name:mr": "आबिजान",
+                    "name:ms": "Abidjan",
+                    "name:nan": "Abidjan",
+                    "name:nl": "Abidjan",
+                    "name:nn": "Abidjan",
+                    "name:no": "Abidjan",
+                    "name:nov": "Abidjan",
+                    "name:oc": "Abidjan",
+                    "name:pl": "Abidżan",
+                    "name:pms": "Abidjan",
+                    "name:pt": "Abidjan",
+                    "name:ro": "Abidjan",
+                    "name:roa-rup": "Abidjan",
+                    "name:ru": "Абиджан",
+                    "name:sc": "Abidjan",
+                    "name:sk": "Abidjan",
+                    "name:sl": "Abidžan",
+                    "name:sq": "Abidjan",
+                    "name:sr": "Абиџан",
+                    "name:sv": "Abidjan",
+                    "name:sw": "Abidjan",
+                    "name:th": "อาบีจาน",
+                    "name:tk": "Abijan",
+                    "name:tr": "Abican",
+                    "name:uk": "Абіджан",
+                    "name:vi": "Abidjan",
+                    "name:vo": "Abidjan",
+                    "name:war": "Abidjan",
+                    "name:yo": "Abidjan",
+                    "name:zh": "阿比让",
+                    "note": "un district en Côte d’Ivoire",
+                    "official_name": "District Autonome d’Abidjan",
+                    "population": "5000000",
+                    "type": "boundary",
+                    "wikidata": "Q4667612",
+                    "wikipedia": "fr:Abidjan"
+                },
+                "totalRoutes": "424"
+            }
+        ]
+    },
+    {
+        "Rank": 9,
+        "City": "Dar es Salaam",
+        "Country": " Tanzania",
+        "Population": "4,720,000",
+        "Date of Estimate": 2016,
+        "osm": [
+            {
+                "id": 7202037,
+                "tags": {
+                    "ISO3166-2": "TZ-02",
+                    "admin_level": "4",
+                    "alt_name": "Dar Es Salam",
+                    "boundary": "administrative",
+                    "is_in:continent": "Africa",
+                    "is_in:country": "Tanzania",
+                    "name": "Dar es Salaam",
+                    "name:ar": "دار السلام",
+                    "name:da": "Dar es-Salaam",
+                    "name:de": "Daressalam",
+                    "name:el": "Νταρ ες Σαλάμ",
+                    "name:en": "Dar es Salaam",
+                    "name:fr": "Dar es Salam",
+                    "name:he": "דאר א-סלאם",
+                    "name:hi": "दार अस सलाम",
+                    "name:ja": "ダルエスサラーム",
+                    "name:kn": "ದಾರ್ ಅಸ್ ಸಲಾಮ್",
+                    "name:ko": "다르에스살람",
+                    "name:lt": "Dar es Salamas",
+                    "name:pl": "Dar es Salaam",
+                    "name:ru": "Дар-эс-Салам",
+                    "name:uk": "Дар-ес-Салам",
+                    "name:zh": "達累斯薩拉姆",
+                    "place": "city",
+                    "type": "boundary",
+                    "wikidata": "Q557539",
+                    "wikipedia": "en:Dar es Salaam Region"
+                },
+                "totalRoutes": "323"
+            }
+        ]
+    },
+    {
+        "Rank": 10,
+        "City": "Casablanca",
+        "Country": " Morocco",
+        "Population": "4,370,000",
+        "Date of Estimate": 2014,
+        "osm": [
+            {
+                "id": 2424085,
+                "tags": {
+                    "ISO3166-2": "MA-06",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "int_name": "Casablanca-Settat",
+                    "name": "Casablanca-Settat ⵜⵉⴳⵎⵉ ⵜⵓⵎⵍⵉⵍⵜ-ⵙⵟⵟⴰⵜ الدار البيضاء-سطات",
+                    "name:ar": "الدار البيضاء سطات",
+                    "name:ber": "ⵜⵉⴳⵎⵉ ⵜⵓⵎⵍⵉⵍⵜ-ⵙⵟⵟⴰⵜ",
+                    "name:cs": "Casablanca-Settat",
+                    "name:en": "Casablanca-Settat",
+                    "name:fr": "Casablanca-Settat",
+                    "name:pl": "Casablanca-Settat",
+                    "name:ru": "Касабланка -Сеттат",
+                    "name:uk": "Касабланка -Сеттат",
+                    "network": "Régions du Maroc",
+                    "population": "6861739",
+                    "population:date": "2014",
+                    "ref": "6",
+                    "ref:MA:HCP": "06.",
+                    "type": "boundary",
+                    "wikidata": "Q19843788"
+                },
+                "totalRoutes": "151"
+            }
+        ]
+    },
+    {
+        "Rank": 11,
+        "City": "Cape Town",
+        "Country": " South Africa",
+        "Population": "3,740,000",
+        "Date of Estimate": 2011,
+        "osm": []
+    },
+    {
+        "Rank": 12,
+        "City": "Algiers",
+        "Country": " Algeria",
+        "Population": "3,420,000",
+        "Date of Estimate": 2011,
+        "osm": [
+            {
+                "id": 157062,
+                "tags": {
+                    "ISO3166-2": "DZ-16",
+                    "admin_level": "4",
+                    "alt_name": "Al Djazāir",
+                    "boundary": "administrative",
+                    "capital": "yes",
+                    "long_name": "ولاية الجزائر",
+                    "long_name:ar": "ولاية الجزائر",
+                    "long_name:en": "Algiers Province",
+                    "long_name:fr": "Wilaya d'Alger",
+                    "name": "Alger",
+                    "name:af": "Algiers",
+                    "name:am": "አልጀርስ",
+                    "name:an": "Alcher",
+                    "name:ar": "الجزائر",
+                    "name:arc": "ܓܙܐܐܪ",
+                    "name:ast": "Arxel",
+                    "name:az": "Əlcəzair",
+                    "name:bat-smg": "Alžīrs",
+                    "name:be": "Алжыр",
+                    "name:be-tarask": "Альжыр",
+                    "name:ber": "ⴷⵣⴰⵢⴻⵔ",
+                    "name:bg": "Алжир",
+                    "name:bn": "আলজিয়ার্স",
+                    "name:bo": "ཨཱལ་ཇི་ཡར་སི།",
+                    "name:bs": "Alžir",
+                    "name:ca": "Alger",
+                    "name:ckb": "ئەلجەزیرە",
+                    "name:cs": "Alžír",
+                    "name:cv": "Алжир",
+                    "name:cy": "Alger",
+                    "name:da": "Algier",
+                    "name:de": "Algier",
+                    "name:diq": "Cezayir",
+                    "name:el": "Αλγέρι",
+                    "name:en": "Algiers",
+                    "name:eo": "Alĝero",
+                    "name:es": "Argel",
+                    "name:et": "Alžiir",
+                    "name:eu": "Aljer",
+                    "name:ext": "Argel",
+                    "name:fa": "الجزیره",
+                    "name:fi": "Alger",
+                    "name:fo": "Alger",
+                    "name:fr": "Alger",
+                    "name:frp": "Alg·èr",
+                    "name:fy": "Algiers",
+                    "name:gd": "Algiers",
+                    "name:gl": "Alxer",
+                    "name:he": "אלג'יר",
+                    "name:hi": "आल्जेर",
+                    "name:hif": "Algiers",
+                    "name:hr": "Alžir",
+                    "name:hsb": "Alžěr",
+                    "name:ht": "Alje",
+                    "name:hu": "Algír",
+                    "name:hy": "Ալժիր",
+                    "name:id": "Aljir",
+                    "name:ie": "Alger",
+                    "name:io": "Aljer",
+                    "name:is": "Algeirsborg",
+                    "name:it": "Algeri",
+                    "name:ja": "アルジェ",
+                    "name:jv": "Aljir",
+                    "name:ka": "ალჟირი",
+                    "name:kab": "Dzayer",
+                    "name:kk": "Алжир",
+                    "name:kn": "ಆಲ್ಜೇರ್",
+                    "name:ko": "알제",
+                    "name:ku": "Cezayir",
+                    "name:ky": "Алжир шаары",
+                    "name:la": "Algeria",
+                    "name:lad": "Arjel",
+                    "name:lb": "Alger",
+                    "name:lij": "Algè",
+                    "name:lmo": "Algeri",
+                    "name:ln": "Alje",
+                    "name:lt": "Alžyras",
+                    "name:lv": "Alžīra",
+                    "name:mdf": "Алжир",
+                    "name:mk": "Алжир",
+                    "name:ml": "അൾജിയേഴ്സ്",
+                    "name:mr": "अल्जीयर्स",
+                    "name:mrj": "Алжир",
+                    "name:ms": "Algiers",
+                    "name:nah": "Argel",
+                    "name:nan": "Algiers",
+                    "name:nl": "Algiers",
+                    "name:nn": "Alger",
+                    "name:no": "Alger",
+                    "name:nov": "Algiers",
+                    "name:oc": "Argièr",
+                    "name:os": "Алжир",
+                    "name:pap": "Algiers",
+                    "name:pl": "Algier",
+                    "name:pms": "Algeri",
+                    "name:pnb": "الجیرز",
+                    "name:ps": "الجزيره",
+                    "name:pt": "Argel",
+                    "name:ro": "Alger",
+                    "name:roa-rup": "Alger",
+                    "name:ru": "Алжир",
+                    "name:scn": "Algeri",
+                    "name:sco": "Algiers",
+                    "name:se": "Algiers eanangoddi",
+                    "name:sh": "Alžir",
+                    "name:simple": "Algiers",
+                    "name:sk": "Alžír",
+                    "name:sl": "Alžir",
+                    "name:so": "Algiers",
+                    "name:sr": "Алжир",
+                    "name:su": "Aljir",
+                    "name:sv": "Alger",
+                    "name:sw": "Algiers",
+                    "name:ta": "அல்ஜியர்ஸ்",
+                    "name:tg": "Алҷазоир",
+                    "name:th": "แอลเจียร์",
+                    "name:tl": "Algiers",
+                    "name:tr": "Cezayir",
+                    "name:udm": "Алжир",
+                    "name:ug": "ئالجىر",
+                    "name:uk": "Алжир",
+                    "name:ur": "الجزائر شہر",
+                    "name:vec": "Algeri",
+                    "name:vep": "Alžir",
+                    "name:vi": "Algiers",
+                    "name:vo": "Cäsair",
+                    "name:war": "Algiers",
+                    "name:wo": "Alse",
+                    "name:yo": "Algiers",
+                    "name:yue": "阿爾及爾",
+                    "name:zh": "阿爾及爾",
+                    "name:zu": "Algiers",
+                    "old_name:ar": "إيكوسيم",
+                    "old_name:la": "Icosium",
+                    "ref": "16",
+                    "type": "boundary",
+                    "wikidata": "Q141026",
+                    "wikipedia": "ar:ولاية الجزائر"
+                },
+                "totalRoutes": "109"
+            }
+        ]
+    },
+    {
+        "Rank": 13,
+        "City": "Addis Ababa",
+        "Country": " Ethiopia",
+        "Population": "3,040,000",
+        "Date of Estimate": 2012,
+        "osm": [
+            {
+                "id": 1707699,
+                "tags": {
+                    "ISO3166-2": "ET-AA",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "is_in:continent": "Africa",
+                    "is_in:country": "Ethiopia",
+                    "is_in:country_code": "ET",
+                    "name": "አዲስ አበባ / Addis Ababa",
+                    "name:am": "አዲስ አበባ",
+                    "name:ar": "أديس أبابا",
+                    "name:az": "Əddis-Əbəbə",
+                    "name:be": "Адыс-Абеба",
+                    "name:bg": "Адис Абеба",
+                    "name:bn": "আদ্দিস আবাবা",
+                    "name:bo": "ཨ་ཌི་སི་ཨ་བ་བ།",
+                    "name:bs": "Adis Abeba",
+                    "name:cy": "Addis Ababa",
+                    "name:da": "Addis Ababa",
+                    "name:de": "Addis Abeba",
+                    "name:el": "Αντίς Αμπέμπα",
+                    "name:en": "Addis Ababa",
+                    "name:eo": "Adis-Abebo",
+                    "name:es": "Adís Abeba",
+                    "name:fa": "آدیس آبابا",
+                    "name:fo": "Addis Ababa",
+                    "name:fr": "Addis-Abeba",
+                    "name:ga": "Adas Ababa",
+                    "name:gd": "Addis Ababa",
+                    "name:gl": "Adís Abeba - አዲስ አበባ",
+                    "name:he": "אדיס אבבה",
+                    "name:hr": "Adis Abeba",
+                    "name:ht": "Adis-Abeba",
+                    "name:hu": "Addisz-Abeba",
+                    "name:hy": "Ադիս Աբեբա",
+                    "name:id": "Addis Ababa",
+                    "name:ig": "Addis Ababa",
+                    "name:io": "Addis Ababa",
+                    "name:is": "Addis Ababa",
+                    "name:ja": "アディスアベバ",
+                    "name:jv": "Addis Ababa",
+                    "name:ka": "ადის-აბება",
+                    "name:kn": "ಅಡಿಸ್ ಅಬಾಬ",
+                    "name:ko": "아디스아바바",
+                    "name:ky": "Аддис-Абеба",
+                    "name:la": "Neanthopolis",
+                    "name:lt": "Adis Abeba",
+                    "name:lv": "Adisabeba",
+                    "name:mk": "Адис Абеба",
+                    "name:ml": "അഡിസ് അബെബ",
+                    "name:mn": "Аддис-Абеба",
+                    "name:mr": "अदिस अबाबा",
+                    "name:ms": "Addis Ababa",
+                    "name:my": "အာဒစ် အာဘာဘာမြို့",
+                    "name:os": "Аддис-Абебæ",
+                    "name:pa": "ਆਦਿਸ ਆਬਬਾ",
+                    "name:pt": "Adis Abeba",
+                    "name:qu": "Adis Ababa",
+                    "name:ru": "Аддис-Абеба",
+                    "name:rw": "Addis Ababa",
+                    "name:sl": "Adis Abeba",
+                    "name:sr": "Адис Абеба",
+                    "name:sw": "Addis Ababa",
+                    "name:ta": "அடிஸ் அபாபா",
+                    "name:tg": "Аддис-Абеба",
+                    "name:th": "แอดดิสอาบาบา",
+                    "name:tl": "Adis Abeba",
+                    "name:tr": "Addis Ababa",
+                    "name:uk": "Аддис-Абеба",
+                    "name:ur": "ادیس ابابا",
+                    "name:vi": "Addis Ababa",
+                    "name:wo": "Addis-Abeba",
+                    "name:yo": "Addis Ababa",
+                    "name:zh": "亚的斯亚贝巴",
+                    "type": "boundary",
+                    "wikidata": "Q3624",
+                    "wikipedia": "am:አዲስ አበባ"
+                },
+                "totalRoutes": "113"
+            }
+        ]
+    },
+    {
+        "Rank": 14,
+        "City": "Kano",
+        "Country": " Nigeria",
+        "Population": "2,830,000",
+        "Date of Estimate": 2006,
+        "osm": [
+            {
+                "id": 3710302,
+                "tags": {
+                    "ISO3166-2": "NG-KN",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "land_area": "administrative",
+                    "long_name:ar": "ولاية كانو",
+                    "name": "Kano",
+                    "name:ar": "كانو",
+                    "name:ja": "カノ州",
+                    "name:ru": "Кано",
+                    "name:uk": "Кано",
+                    "source": "eHealth Africa",
+                    "source:date": "2013",
+                    "source:url": "http://ehealthafrica.org",
+                    "type": "boundary",
+                    "wikidata": "Q682571",
+                    "wikipedia": "en:Kano State"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 15,
+        "City": "Luanda",
+        "Country": " Angola",
+        "Population": "2,570,000",
+        "Date of Estimate": 2019,
+        "osm": [
+            {
+                "id": 1802546,
+                "tags": {
+                    "ISO3166-2": "AO-LUA",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Luanda",
+                    "name:el": "Λουάντα",
+                    "name:ru": "Луанда",
+                    "name:uk": "Луанда",
+                    "type": "boundary",
+                    "wikidata": "Q190066",
+                    "wikipedia": "en:Luanda Province"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 16,
+        "City": "Ibadan",
+        "Country": " Nigeria",
+        "Population": "2,560,000",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 17,
+        "City": "Aba",
+        "Country": " Nigeria",
+        "Population": "2,534,265",
+        "Date of Estimate": 2016,
+        "osm": []
+    },
+    {
+        "Rank": 18,
+        "City": "Kumasi",
+        "Country": " Ghana",
+        "Population": "2,035,064",
+        "Date of Estimate": 2010,
+        "osm": []
+    },
+    {
+        "Rank": 19,
+        "City": "Douala",
+        "Country": " Cameroon",
+        "Population": "1,906,962",
+        "Date of Estimate": 2005,
+        "osm": []
+    },
+    {
+        "Rank": 20,
+        "City": "Omdurman",
+        "Country": " Sudan",
+        "Population": "1,849,659",
+        "Date of Estimate": 2008,
+        "osm": []
+    },
+    {
+        "Rank": 21,
+        "City": "Yaoundé",
+        "Country": " Cameroon",
+        "Population": "1,817,524",
+        "Date of Estimate": 2005,
+        "osm": []
+    },
+    {
+        "Rank": 22,
+        "City": "Bamako",
+        "Country": " Mali",
+        "Population": "1,816,366",
+        "Date of Estimate": 2009,
+        "osm": [
+            {
+                "id": 2105525,
+                "tags": {
+                    "ISO3166-2": "ML-BKO",
+                    "admin_level": "4",
+                    "admin_type:ML": "district",
+                    "boundary": "administrative",
+                    "name": "Bamako",
+                    "name:am": "ባማኮ",
+                    "name:ar": "باماكو",
+                    "name:arc": "ܒܡܩܘ",
+                    "name:be": "Бамако",
+                    "name:be-tarask": "Бамака",
+                    "name:bg": "Бамако",
+                    "name:bm": "Bamakɔ",
+                    "name:bo": "བ་མ་ཀོ།",
+                    "name:ckb": "باماکۆ",
+                    "name:cv": "Бамако",
+                    "name:de": "Bamako",
+                    "name:el": "Μπαμάκο",
+                    "name:en": "Bamako",
+                    "name:eo": "Bamako",
+                    "name:fa": "باماکو",
+                    "name:fr": "Bamako",
+                    "name:gl": "Bamaco",
+                    "name:he": "במקו",
+                    "name:hi": "बमाको",
+                    "name:hu": "Bamako",
+                    "name:hy": "Բամակո",
+                    "name:is": "Bamakó",
+                    "name:ja": "バマコ",
+                    "name:ka": "ბამაკო",
+                    "name:kab": "Bamaku",
+                    "name:ko": "바마코",
+                    "name:ky": "Бамако",
+                    "name:lt": "Bamakas",
+                    "name:mk": "Бамако",
+                    "name:mr": "बमाको",
+                    "name:mrj": "Бамако",
+                    "name:os": "Бамако",
+                    "name:pl": "Bamako",
+                    "name:pnb": "بماکو",
+                    "name:ru": "Бамако",
+                    "name:sr": "Бамако",
+                    "name:sv": "Bamako",
+                    "name:ta": "பமாக்கோ",
+                    "name:tg": "Бамако",
+                    "name:th": "บามาโก",
+                    "name:udm": "Бамако",
+                    "name:uk": "Бамако",
+                    "name:ur": "بماکو",
+                    "name:zh": "巴馬科",
+                    "official_name": "District de Bamako",
+                    "type": "boundary",
+                    "wikidata": "Q3703",
+                    "wikipedia": "fr:Bamako"
+                },
+                "totalRoutes": "210"
+            }
+        ]
+    },
+    {
+        "Rank": 23,
+        "City": "Lusaka",
+        "Country": " Zambia",
+        "Population": "1,747,152",
+        "Date of Estimate": 2010,
+        "osm": [
+            {
+                "id": 318864,
+                "tags": {
+                    "ISO3166-2": "ZM-09",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Lusaka Province",
+                    "name:ar": "لوساكا",
+                    "name:de": "Provinz Lusaka",
+                    "name:es": "Provincia de Lusaka",
+                    "name:fr": "Province de Lusaka",
+                    "type": "boundary",
+                    "wikidata": "Q819998",
+                    "wikipedia": "en:Lusaka Province"
+                },
+                "totalRoutes": "118"
+            }
+        ]
+    },
+    {
+        "Rank": 24,
+        "City": "Pretoria",
+        "Country": " South Africa",
+        "Population": "1,736,336",
+        "Date of Estimate": 2011,
+        "osm": []
+    },
+    {
+        "Rank": 25,
+        "City": "Conakry",
+        "Country": " Guinea",
+        "Population": "1,660,973",
+        "Date of Estimate": 2014,
+        "osm": [
+            {
+                "id": 3731500,
+                "tags": {
+                    "ISO3166-2": "GN-C",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Conakry",
+                    "type": "boundary",
+                    "wikidata": "Q3733"
+                },
+                "totalRoutes": "2"
+            }
+        ]
+    },
+    {
+        "Rank": 26,
+        "City": "Mogadishu",
+        "Country": " Somalia",
+        "Population": "1,650,227",
+        "Date of Estimate": 2014,
+        "osm": []
+    },
+    {
+        "Rank": 27,
+        "City": "Kampala",
+        "Country": " Uganda",
+        "Population": "1,650,800",
+        "Date of Estimate": 2019,
+        "osm": [
+            {
+                "id": 5457274,
+                "tags": {
+                    "ISO3166-2": "UG-102",
+                    "addr:country": "UG",
+                    "addr:region": "Central region",
+                    "admin_level": "4",
+                    "border_type": "district",
+                    "boundary": "administrative",
+                    "name": "Kampala",
+                    "type": "boundary",
+                    "wikidata": "Q926417",
+                    "wikipedia": "en:Kampala District"
+                },
+                "totalRoutes": "11"
+            }
+        ]
+    },
+    {
+        "Rank": 28,
+        "City": "Mombasa",
+        "Country": " Kenya",
+        "Population": "1,500,000",
+        "Date of Estimate": 2018,
+        "osm": [
+            {
+                "id": 3495554,
+                "tags": {
+                    "CONSTITUEN": "KISAUNI",
+                    "CONST_CODE": "3",
+                    "COUNTY_COD": "1",
+                    "COUNTY_NAM": "MOMBASA",
+                    "ISO3166-2": "KE-28",
+                    "OBJECTID": "2",
+                    "Shape_Area": "0.02332510618",
+                    "Shape_Leng": "0.88558616055",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "id": "6634",
+                    "name": "Mombasa",
+                    "name:ar": "مومباسا",
+                    "name:eo": "Mombaso",
+                    "name:ja": "モンバサ",
+                    "name:nl": "Mombassa",
+                    "name:pt": "Mombaça",
+                    "name:zh": "蒙巴萨",
+                    "type": "boundary",
+                    "wikidata": "Q1112885"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 29,
+        "City": "Harare",
+        "Country": " Zimbabwe",
+        "Population": "1,485,231",
+        "Date of Estimate": 2012,
+        "osm": [
+            {
+                "id": 318467,
+                "tags": {
+                    "ISO3166-2": "ZW-HA",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Harare Province",
+                    "name:ar": "هراري",
+                    "name:de": "Harare Provinz",
+                    "name:es": "Provincia de Harare",
+                    "name:fr": "Province d'Harare",
+                    "type": "boundary",
+                    "wikidata": "Q3921",
+                    "wikipedia": "en:Harare"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 30,
+        "City": "Lomé",
+        "Country": " Togo",
+        "Population": "1,477,658",
+        "Date of Estimate": 2010,
+        "osm": [
+            {
+                "id": 6607308,
+                "tags": {
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "capital": "yes",
+                    "name": "Lomé",
+                    "name:am": "ሎሜ",
+                    "name:ar": "لومي",
+                    "name:arz": "لوميه",
+                    "name:az": "Lome",
+                    "name:be": "Ламэ",
+                    "name:be-tarask": "Ломэ",
+                    "name:bg": "Ломе",
+                    "name:bo": "ལཱོ་མེ།",
+                    "name:ckb": "لۆمێ",
+                    "name:de": "Lomé",
+                    "name:el": "Λομέ",
+                    "name:en": "Lomé",
+                    "name:eo": "Lomeo",
+                    "name:eu": "Lome",
+                    "name:fa": "لومه",
+                    "name:fr": "Lomé",
+                    "name:fy": "Lomee",
+                    "name:he": "לומה",
+                    "name:ht": "Lomé",
+                    "name:hy": "Լոմե",
+                    "name:io": "Lome",
+                    "name:is": "Lomé",
+                    "name:ja": "ロメ",
+                    "name:ka": "ლომე",
+                    "name:ko": "로메",
+                    "name:ky": "Ломе",
+                    "name:la": "Lome",
+                    "name:lt": "Lomė",
+                    "name:lv": "Lome",
+                    "name:mk": "Ломе",
+                    "name:mr": "लोमे",
+                    "name:mrj": "Ломе",
+                    "name:nov": "Lome",
+                    "name:pl": "Lomé",
+                    "name:pnb": "لوم",
+                    "name:ps": "لوم",
+                    "name:ru": "Ломе",
+                    "name:so": "Lome",
+                    "name:sr": "Ломе",
+                    "name:sv": "Lomé",
+                    "name:sw": "Lome",
+                    "name:ta": "லோமே",
+                    "name:tg": "Ломе",
+                    "name:th": "โลเม",
+                    "name:udm": "Ломе",
+                    "name:ug": "لومې",
+                    "name:uk": "Ломе",
+                    "name:ur": "لومے",
+                    "name:zh": "洛美",
+                    "note": "Cette commune ne fait partie d'aucune autre région",
+                    "place": "city",
+                    "population": "837437",
+                    "type": "boundary",
+                    "website": "http://villedelome.com/",
+                    "wikidata": "Q3792",
+                    "wikipedia": "fr:Lomé"
+                },
+                "totalRoutes": "17"
+            }
+        ]
+    },
+    {
+        "Rank": 31,
+        "City": "Ouagadougou",
+        "Country": " Burkina Faso",
+        "Population": "1,475,223",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 32,
+        "City": "Khartoum",
+        "Country": " Sudan",
+        "Population": "1,410,858",
+        "Date of Estimate": 2008,
+        "osm": [
+            {
+                "id": 3774673,
+                "tags": {
+                    "ISO3166-2": "SD-KH",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "is_in:continent": "Africa",
+                    "is_in:country": "Sudan",
+                    "is_in:country_code": "SD",
+                    "name": "ولاية الخرطوم",
+                    "name:ar": "ولاية الخرطوم",
+                    "name:de": "Khartum",
+                    "name:en": "Khartoum State",
+                    "name:es": "Jartum",
+                    "name:fr": "Khartoum",
+                    "type": "boundary",
+                    "wikidata": "Q310385"
+                },
+                "totalRoutes": "1"
+            }
+        ]
+    },
+    {
+        "Rank": 33,
+        "City": "Brazzaville",
+        "Country": " Republic of the Congo",
+        "Population": "1,373,382",
+        "Date of Estimate": 2007,
+        "osm": [
+            {
+                "id": 3947308,
+                "tags": {
+                    "ISO3166-2": "CG-BZV",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Brazzaville",
+                    "type": "boundary",
+                    "wikidata": "Q3844"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 34,
+        "City": "Antananarivo",
+        "Country": " Madagascar",
+        "Population": "1,334,300",
+        "Date of Estimate": 2014,
+        "osm": []
+    },
+    {
+        "Rank": 35,
+        "City": "Lubumbashi",
+        "Country": " Democratic Republic of the Congo",
+        "Population": "1,283,380",
+        "Date of Estimate": 2004,
+        "osm": []
+    },
+    {
+        "Rank": 36,
+        "City": "Kisumu",
+        "Country": " Kenya",
+        "Population": "1,268,826",
+        "Date of Estimate": 2018,
+        "osm": [
+            {
+                "id": 3486289,
+                "tags": {
+                    "ISO3166-2": "KE-17",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Kisumu",
+                    "type": "boundary",
+                    "wikidata": "Q1743809",
+                    "wikipedia": "en:Kisumu County"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 37,
+        "City": "Mbuji-Mayi",
+        "Country": " Democratic Republic of the Congo",
+        "Population": "1,213,726",
+        "Date of Estimate": 2004,
+        "osm": []
+    },
+    {
+        "Rank": 38,
+        "City": "Shubra el-Kheima",
+        "Country": " Egypt",
+        "Population": "1,187,747",
+        "Date of Estimate": 2018,
+        "osm": []
+    },
+    {
+        "Rank": 39,
+        "City": "Dakar",
+        "Country": " Senegal",
+        "Population": "1,150,000",
+        "Date of Estimate": 2013,
+        "osm": []
+    },
+    {
+        "Rank": 40,
+        "City": "Benin City",
+        "Country": " Nigeria",
+        "Population": "1,147,188",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 41,
+        "City": "Fez",
+        "Country": " Morocco",
+        "Population": "1,112,072",
+        "Date of Estimate": 2014,
+        "osm": [
+            {
+                "id": 4730909,
+                "tags": {
+                    "ISO3166-2": "MA-03",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Fès-Meknès ⴼⴰⵙ-ⵎⴽⵏⴰⵙ فاس-مكناس",
+                    "name:ar": "فاس - مكناس",
+                    "name:ber": "ⴼⴰⵙ-ⵎⴽⵏⴰⵙ",
+                    "name:cs": "Fes-Meknes",
+                    "name:en": "Fez-Meknes",
+                    "name:es": "Fez-Mequinez",
+                    "name:fr": "Fès-Meknès",
+                    "name:pl": "Fez-Meknes",
+                    "name:ru": "Фес-Мекне́с",
+                    "name:uk": "Фес-Мекне́с",
+                    "network": "Régions du Maroc",
+                    "population": "4236892",
+                    "population:date": "2014",
+                    "ref": "3",
+                    "ref:MA:HCP": "03.",
+                    "type": "boundary",
+                    "wikidata": "Q19951027",
+                    "wikipedia": "fr:Fès-Meknès"
+                },
+                "totalRoutes": "10"
+            }
+        ]
+    },
+    {
+        "Rank": 42,
+        "City": "Bujumbura",
+        "Country": " Burundi",
+        "Population": "1,112,057",
+        "Date of Estimate": 2019,
+        "osm": [
+            {
+                "id": 1695013,
+                "tags": {
+                    "ISO3166-2": "BI-BL",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Bujumbura Rural",
+                    "type": "boundary",
+                    "wikidata": "Q645043"
+                },
+                "totalRoutes": "0"
+            },
+            {
+                "id": 1694988,
+                "tags": {
+                    "ISO3166-2": "BI-BM",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Bujumbura Mairie",
+                    "type": "boundary",
+                    "wikidata": "Q1816580"
+                },
+                "totalRoutes": "1"
+            }
+        ]
+    },
+    {
+        "Rank": 43,
+        "City": "Freetown",
+        "Country": " Sierra Leone",
+        "Population": "1,055,964",
+        "Date of Estimate": 2015,
+        "osm": []
+    },
+    {
+        "Rank": 44,
+        "City": "Maputo",
+        "Country": " Mozambique",
+        "Population": "1,032,197",
+        "Date of Estimate": 2017,
+        "osm": [
+            {
+                "id": 3348644,
+                "tags": {
+                    "ISO3166-2": "MZ-MPM",
+                    "admin_level": "4",
+                    "alt_name": "Maputo",
+                    "boundary": "administrative",
+                    "name": "Cidade de Maputo",
+                    "place": "city",
+                    "type": "boundary",
+                    "wikidata": "Q3889",
+                    "wikipedia": "pt:Maputo"
+                },
+                "totalRoutes": "258"
+            },
+            {
+                "id": 2908441,
+                "tags": {
+                    "ISO3166-2": "MZ-L",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Maputo",
+                    "name:ja": "マプト州",
+                    "note": "Could someone please help fixing the Administrative Levels of Maputo? It has: State 1: Province of Maputo State 2: Province of Maputo City Municipio/Municipality/City: Maputo Districts - e.g. Kamavota Neighbourhoods: e.g. Mafalala",
+                    "type": "boundary",
+                    "wikidata": "Q379658",
+                    "wikipedia": "pt:Maputo (província)"
+                },
+                "totalRoutes": "165"
+            }
+        ]
+    },
+    {
+        "Rank": 45,
+        "City": "Monrovia",
+        "Country": " Liberia",
+        "Population": "1,021,762",
+        "Date of Estimate": 2008,
+        "osm": []
+    },
+    {
+        "Rank": 46,
+        "City": "Khartoum North",
+        "Country": " Sudan",
+        "Population": "1,012,211",
+        "Date of Estimate": 2008,
+        "osm": [
+            {
+                "id": 3774673,
+                "tags": {
+                    "ISO3166-2": "SD-KH",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "is_in:continent": "Africa",
+                    "is_in:country": "Sudan",
+                    "is_in:country_code": "SD",
+                    "name": "ولاية الخرطوم",
+                    "name:ar": "ولاية الخرطوم",
+                    "name:de": "Khartum",
+                    "name:en": "Khartoum State",
+                    "name:es": "Jartum",
+                    "name:fr": "Khartoum",
+                    "type": "boundary",
+                    "wikidata": "Q310385"
+                },
+                "totalRoutes": "1"
+            }
+        ]
+    },
+    {
+        "Rank": 47,
+        "City": "Port Harcourt",
+        "Country": " Nigeria",
+        "Population": "1,005,904",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 48,
+        "City": "Lilongwe",
+        "Country": " Malawi",
+        "Population": "989,318",
+        "Date of Estimate": 2018,
+        "osm": [
+            {
+                "id": 7345524,
+                "tags": {
+                    "ISO3166-2": "MW-LI",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Lilongwe",
+                    "name:ar": "ليلونغوي",
+                    "name:ru": "Лилонгве",
+                    "type": "boundary",
+                    "wikidata": "Q1058453",
+                    "wikipedia": "en:Lilongwe District"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 49,
+        "City": "Niamey",
+        "Country": " Niger",
+        "Population": "978,029",
+        "Date of Estimate": 2012,
+        "osm": [
+            {
+                "id": 3218804,
+                "tags": {
+                    "ISO3166-2": "NE-8",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Niamey",
+                    "name:ar": "نيامي",
+                    "name:oc": "Niamey",
+                    "name:ru": "Ниамей",
+                    "name:uk": "Ніамей",
+                    "source:name:oc": "Lo Congrès",
+                    "type": "boundary",
+                    "wikidata": "Q3674",
+                    "wikipedia": "fr:Niamey"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 50,
+        "City": "Nouakchott",
+        "Country": " Mauritania",
+        "Population": "958,399",
+        "Date of Estimate": 2013,
+        "osm": [
+            {
+                "id": 3395130,
+                "tags": {
+                    "ISO3166-2": "MR-NKC",
+                    "admin_level": "4",
+                    "alt_name:de": "Nouakchott",
+                    "border_type": "region",
+                    "boundary": "administrative",
+                    "name": "نواكشوط",
+                    "name:am": "ኑዋክሾት",
+                    "name:ar": "نواكشوط",
+                    "name:ast": "Nuakxot",
+                    "name:az": "Nuakşot",
+                    "name:be": "Нуакшот",
+                    "name:be-tarask": "Нуакшот",
+                    "name:bg": "Нуакшот",
+                    "name:bn": "নুওয়াকশুত",
+                    "name:bo": "ནའུ་ཀ་ཅོ་ཊི།",
+                    "name:ckb": "نۆئاکشۆت",
+                    "name:cs": "Nuakšott",
+                    "name:da": "Nouakchott",
+                    "name:de": "Nuakschott",
+                    "name:el": "Νουακσότ",
+                    "name:en": "Nouakchott",
+                    "name:eo": "Nuakŝoto",
+                    "name:es": "Nuakchot",
+                    "name:eu": "Nuakchot",
+                    "name:fa": "نوآکشوت",
+                    "name:fr": "Nouakchott",
+                    "name:he": "נואקשוט",
+                    "name:hr": "Nouakchott",
+                    "name:ht": "Nouakchot",
+                    "name:hy": "Նուակշոտ",
+                    "name:is": "Núaksjott",
+                    "name:ja": "ヌアクショット",
+                    "name:ka": "ნუაქშოტი",
+                    "name:kk": "Нуакшот қаласы",
+                    "name:ko": "누악쇼트",
+                    "name:ku": "Nûakşot",
+                    "name:ky": "Нуакшот",
+                    "name:lt": "Nuakšotas",
+                    "name:lv": "Nuakšota",
+                    "name:mk": "Нуакшот",
+                    "name:mr": "नवाकसुत",
+                    "name:mrj": "Нуакшот",
+                    "name:nov": "Nouakchot",
+                    "name:pl": "Nawakszut",
+                    "name:pnb": "نوواکوٹ",
+                    "name:ru": "Нуакшот",
+                    "name:so": "Nawakshot",
+                    "name:sr": "Нуакшот",
+                    "name:sv": "Nouakchott",
+                    "name:ta": "நவாக்சோட்",
+                    "name:tg": "Нуакшот",
+                    "name:th": "นูแอกชอต",
+                    "name:tr": "Nuakşot",
+                    "name:udm": "Нуакшот",
+                    "name:uk": "Нуакшот",
+                    "name:ur": "نواکشوط",
+                    "name:vi": "Nouakchott",
+                    "name:vo": "Nävakjut",
+                    "name:yue": "或索",
+                    "name:zh": "努瓦克肖特",
+                    "type": "boundary",
+                    "wikidata": "Q3688",
+                    "wikipedia": "ar:نواكشوط"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 51,
+        "City": "N'Djamena",
+        "Country": " Chad",
+        "Population": "951,418",
+        "Date of Estimate": 2009,
+        "osm": [
+            {
+                "id": 3718330,
+                "tags": {
+                    "ISO3166-2": "TD-ND",
+                    "admin_level": "4",
+                    "alt_name:ar": "نجامينا",
+                    "boundary": "administrative",
+                    "name": "N'Djaména انجمينا",
+                    "name:ar": "انجمينا",
+                    "name:en": "N'Djamena Region",
+                    "name:es": "Yamena",
+                    "name:fr": "N'Djaména",
+                    "name:pl": "Ndżamena",
+                    "name:ru": "Нджамена",
+                    "name:uk": "Нджамена",
+                    "population": "1092066",
+                    "population:date": "2012",
+                    "source:population": "Wikipedia",
+                    "type": "boundary",
+                    "wikidata": "Q3659",
+                    "wikipedia": "ar:انجمينا"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 52,
+        "City": "Tangier",
+        "Country": " Morocco",
+        "Population": "947,952",
+        "Date of Estimate": 2014,
+        "osm": [
+            {
+                "id": 1592819,
+                "tags": {
+                    "ISO3166-2": "MA-01",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Tanger-Tétouan-Al Hoceima ⵟⴰⵏⵊ-ⵟⵉⵜⴰⵡⵉⵏ-ⵍⵃⵓⵙⵉⵎⴰ طنجة-تطوان-الحسيمة",
+                    "name:ar": "طنجة - تطوان - الحسيمة",
+                    "name:ber": "ⵟⴰⵏⵊ-ⵟⵉⵜⴰⵡⵉⵏ-ⵍⵃⵓⵙⵉⵎⴰ",
+                    "name:en": "Tangier-Tetouan-Al Hoceima",
+                    "name:fr": "Tanger-Tétouan-Al Hoceima",
+                    "name:pl": "Tanger-Tetuan-Al Husajma",
+                    "name:ru": "Танжер-Тетуан-Эль-Хосейма",
+                    "name:uk": "Танжер-Тетуан-Эль-Хосейма",
+                    "network": "Régions du Maroc",
+                    "population": "3556729",
+                    "population:date": "2014",
+                    "ref": "1",
+                    "ref:MA:HCP": "01.",
+                    "type": "boundary",
+                    "wikidata": "Q19951300",
+                    "wikipedia": "fr:Tanger-Tétouan-Al Hoceïma"
+                },
+                "totalRoutes": "73"
+            }
+        ]
+    },
+    {
+        "Rank": 53,
+        "City": "Tripoli [1]",
+        "Country": " Libya",
+        "Population": "940,523",
+        "Date of Estimate": 2012,
+        "osm": []
+    },
+    {
+        "Rank": 54,
+        "City": "Marrakesh",
+        "Country": " Morocco",
+        "Population": "928,850",
+        "Date of Estimate": 2014,
+        "osm": []
+    },
+    {
+        "Rank": 55,
+        "City": "Salé",
+        "Country": " Morocco",
+        "Population": "890,403",
+        "Date of Estimate": 2014,
+        "osm": [
+            {
+                "id": 4730737,
+                "tags": {
+                    "ISO3166-2": "MA-04",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Rabat-Salé-Kénitra ⵔⴱⴰⵟ-ⵙⵍⴰ-ⵇⵏⵉⵟⵔⴰ الرباط-سلا-القنيطرة",
+                    "name:ar": "الرباط سلا القنيطرة",
+                    "name:ber": "ⵔⵔⴱⴰⵟ-ⵙⵍⴰ-ⵇⵏⵉⵟⵔⴰ",
+                    "name:cs": "Rabat-Salé-Kénitra",
+                    "name:en": "Rabat-Salé-Kenitra",
+                    "name:fr": "Rabat-Salé-Kénitra",
+                    "name:pl": "Rabat-Sala-Kenitra",
+                    "name:ru": "Рабат-Сале-Кенитра",
+                    "name:uk": "Рабат-Сале-Кенитра",
+                    "network": "Régions du Maroc",
+                    "population": "1061435",
+                    "population:date": "2014",
+                    "ref": "4",
+                    "ref:MA:HCP": "04.",
+                    "type": "boundary",
+                    "wikidata": "Q19951239",
+                    "wikipedia": "fr:Rabat-Salé-Kénitra"
+                },
+                "totalRoutes": "14"
+            }
+        ]
+    },
+    {
+        "Rank": 56,
+        "City": "Port Elizabeth",
+        "Country": " South Africa",
+        "Population": "876,436",
+        "Date of Estimate": 2011,
+        "osm": []
+    },
+    {
+        "Rank": 57,
+        "City": "Kigali",
+        "Country": " Rwanda",
+        "Population": "859,033",
+        "Date of Estimate": 2012,
+        "osm": [
+            {
+                "id": 1708283,
+                "tags": {
+                    "ISO3166-2": "RW-01",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Umujyi wa Kigali",
+                    "name:de": "Kigali",
+                    "name:en": "Kigali City",
+                    "type": "boundary",
+                    "wikidata": "Q3859"
+                },
+                "totalRoutes": "82"
+            }
+        ]
+    },
+    {
+        "Rank": 58,
+        "City": "Jos",
+        "Country": " Nigeria",
+        "Population": "821,608",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 59,
+        "City": "Oran",
+        "Country": " Algeria",
+        "Population": "803,329",
+        "Date of Estimate": 2008,
+        "osm": [
+            {
+                "id": 1259187,
+                "tags": {
+                    "ISO3166-2": "DZ-31",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "long_name": "ولاية وهران",
+                    "long_name:ar": "ولاية وهران",
+                    "long_name:azb": "وهران اوستانی",
+                    "long_name:en": "Oran Province",
+                    "long_name:fa": "استان وهران",
+                    "long_name:fr": "Wilaya d'Oran",
+                    "long_name:pnb": "صوبہ وہران",
+                    "long_name:ur": "صوبہ وھران",
+                    "name": "وهران",
+                    "name:ar": "وهران",
+                    "name:azb": "وهران",
+                    "name:ber": "ⵡⴻⵀⵔⴰⵏ",
+                    "name:el": "Οράν",
+                    "name:en": "Oran",
+                    "name:es": "Orán",
+                    "name:fa": "وهران",
+                    "name:fr": "Oran",
+                    "name:he": "אוראן",
+                    "name:hu": "Orán",
+                    "name:it": "Orano",
+                    "name:ja": "オラン",
+                    "name:kab": "Wehran",
+                    "name:kab-Arab": "وهران",
+                    "name:ko": "오랑",
+                    "name:lt": "Oranas",
+                    "name:pa": "ਵਹਿਰਾਨ",
+                    "name:pnb": "وہران",
+                    "name:pt": "Orã",
+                    "name:ru": "Оран",
+                    "name:ur": "وہران",
+                    "name:zh": "瓦赫蘭",
+                    "ref": "31",
+                    "type": "boundary",
+                    "wikidata": "Q231331",
+                    "wikipedia": "ar:ولاية وهران"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 60,
+        "City": "Blantyre",
+        "Country": " Malawi",
+        "Population": "800,264",
+        "Date of Estimate": 2018,
+        "osm": [
+            {
+                "id": 7347100,
+                "tags": {
+                    "ISO3166-2": "MW-BL",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Blantyre",
+                    "name:ar": "بلانتاير",
+                    "name:ru": "Блантайр",
+                    "type": "boundary",
+                    "wikidata": "Q1059262",
+                    "wikipedia": "en:Blantyre District"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 61,
+        "City": "Ilorin",
+        "Country": " Nigeria",
+        "Population": "777,667",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 62,
+        "City": "Abuja",
+        "Country": " Nigeria",
+        "Population": "776,298",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 63,
+        "City": "Asmara",
+        "Country": " Eritrea",
+        "Population": "775,000",
+        "Date of Estimate": 2014,
+        "osm": []
+    },
+    {
+        "Rank": 64,
+        "City": "Port Said",
+        "Country": " Egypt",
+        "Population": "760,152",
+        "Date of Estimate": 2018,
+        "osm": [
+            {
+                "id": 4103406,
+                "tags": {
+                    "ISO3166-2": "EG-PTS",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "‏بورسعيد",
+                    "name:ar": "‏بورسعيد",
+                    "name:azb": "پورت‌سعید",
+                    "name:de": "Port Said",
+                    "name:en": "Port Said",
+                    "name:es": "Puerto Saíd",
+                    "name:fa": "پورت‌سعید",
+                    "name:fr": "Port-Saïd",
+                    "name:hu": "Port Szaíd",
+                    "name:pnb": "پورٹ سعید",
+                    "name:ru": "Порт-Саид",
+                    "name:ur": "پورٹ سعید",
+                    "official_name": "محافظة بورسعيد",
+                    "official_name:ar": "محافظة بورسعيد",
+                    "official_name:azb": "پورت‌سعید اوستانی",
+                    "official_name:de": "Gouvernement Port Said",
+                    "official_name:en": "Port Said Governorate",
+                    "official_name:fa": "استان پورت‌سعید",
+                    "official_name:fr": "Gouvernorat de Port-Saïd",
+                    "official_name:hu": "Port Szaíd kormányzóság",
+                    "official_name:pnb": "صوبہ پورٹ سعید",
+                    "official_name:ru": "мухафаза Порт-Саид",
+                    "official_name:ur": "محافظہ پورٹ سعید",
+                    "type": "boundary",
+                    "wikidata": "Q31079",
+                    "wikipedia": "ar:محافظة بورسعيد"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 65,
+        "City": "Kaduna",
+        "Country": " Nigeria",
+        "Population": "760,084",
+        "Date of Estimate": 2006,
+        "osm": [
+            {
+                "id": 3709353,
+                "tags": {
+                    "ISO3166-2": "NG-KD",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "long_name:ar": "ولاية كادونا",
+                    "name": "Kaduna",
+                    "name:ar": "كادونا",
+                    "name:ja": "カドゥナ州",
+                    "name:ru": "Кадуна",
+                    "name:uk": "Кадуна",
+                    "source": "ehealthafrica.org",
+                    "source:date": "2013",
+                    "type": "boundary",
+                    "wikidata": "Q878284",
+                    "wikipedia": "en:Kaduna State"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 66,
+        "City": "Touba",
+        "Country": " Senegal",
+        "Population": "753,315",
+        "Date of Estimate": 2013,
+        "osm": []
+    },
+    {
+        "Rank": 67,
+        "City": "Hargeisa",
+        "Country": " Somalia /  Somaliland",
+        "Population": "741,000",
+        "Date of Estimate": 2014,
+        "osm": []
+    },
+    {
+        "Rank": 68,
+        "City": "Suez",
+        "Country": " Egypt",
+        "Population": "740,874",
+        "Date of Estimate": 2018,
+        "osm": [
+            {
+                "id": 3062185,
+                "tags": {
+                    "ISO3166-2": "EG-SUZ",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "الغربية",
+                    "name:de": "Suez",
+                    "name:en": "Suez Governorate",
+                    "name:es": "Gobernación de Suez",
+                    "name:fr": "Gouvernorat de Suez",
+                    "name:hu": "Szuez kormányzóság",
+                    "name:ru": "мухафаза Суэц",
+                    "type": "boundary",
+                    "wikidata": "Q31070"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 69,
+        "City": "Soshanguve",
+        "Country": " South Africa",
+        "Population": "728,063",
+        "Date of Estimate": 2011,
+        "osm": []
+    },
+    {
+        "Rank": 70,
+        "City": "Enugu",
+        "Country": " Nigeria",
+        "Population": "722,664",
+        "Date of Estimate": 2006,
+        "osm": [
+            {
+                "id": 3717212,
+                "tags": {
+                    "ISO3166-2": "NG-EN",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Enugu",
+                    "name:ar": "إنوغو",
+                    "name:ja": "エヌグ州",
+                    "name:ru": "Энугу",
+                    "name:uk": "Енугу",
+                    "official_name:ar": "ولاية إنوغو",
+                    "source": "ehealthafrica.org",
+                    "source:date": "2013",
+                    "type": "boundary",
+                    "wikidata": "Q3817714",
+                    "wikipedia": "en:Enugu State"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 71,
+        "City": "Kananga",
+        "Country": " Democratic Republic of the Congo",
+        "Population": "720,362",
+        "Date of Estimate": 2004,
+        "osm": []
+    },
+    {
+        "Rank": 72,
+        "City": "Pointe-Noire",
+        "Country": " Republic of the Congo",
+        "Population": "715,334",
+        "Date of Estimate": 2007,
+        "osm": [
+            {
+                "id": 3947631,
+                "tags": {
+                    "ISO3166-2": "CG-16",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Pointe-Noire",
+                    "type": "boundary",
+                    "wikidata": "Q42749862",
+                    "wikipedia": "fr:Pointe-Noire (département)"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 73,
+        "City": "Mwanza",
+        "Country": " Tanzania",
+        "Population": "706,453",
+        "Date of Estimate": 2012,
+        "osm": [
+            {
+                "id": 5712706,
+                "tags": {
+                    "ISO3166-2": "TZ-18",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Mwanza",
+                    "type": "boundary",
+                    "wikidata": "Q331153",
+                    "wikipedia": "en:Mwanza Region"
+                },
+                "totalRoutes": "26"
+            }
+        ]
+    },
+    {
+        "Rank": 74,
+        "City": "Libreville",
+        "Country": " Gabon",
+        "Population": "703,940",
+        "Date of Estimate": 2013,
+        "osm": []
+    },
+    {
+        "Rank": 75,
+        "City": "Zaria",
+        "Country": " Nigeria",
+        "Population": "695,089",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 76,
+        "City": "Kisangani",
+        "Country": " Democratic Republic of the Congo",
+        "Population": "682,599",
+        "Date of Estimate": 2004,
+        "osm": []
+    },
+    {
+        "Rank": 77,
+        "City": "Cotonou",
+        "Country": " Benin",
+        "Population": "679,012",
+        "Date of Estimate": 2013,
+        "osm": []
+    },
+    {
+        "Rank": 78,
+        "City": "Nampula",
+        "Country": " Mozambique",
+        "Population": "663,212",
+        "Date of Estimate": 2017,
+        "osm": [
+            {
+                "id": 2908365,
+                "tags": {
+                    "ISO3166-2": "MZ-N",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Nampula",
+                    "name:ja": "ナンプーラ州",
+                    "name:ru": "Нампула",
+                    "type": "boundary",
+                    "wikidata": "Q622794",
+                    "wikipedia": "pt:Nampula (província)"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 79,
+        "City": "Bulawayo",
+        "Country": " Zimbabwe",
+        "Population": "653,337",
+        "Date of Estimate": 2012,
+        "osm": [
+            {
+                "id": 3337019,
+                "tags": {
+                    "ISO3166-2": "ZW-BU",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Bulawayo Province",
+                    "name:ar": "بولاوايو",
+                    "name:de": "Bulawayo Provinz",
+                    "name:en": "Bulawayo Province",
+                    "name:es": "Provincia de Bulawayo",
+                    "name:fr": "Province de Bulawayo",
+                    "type": "boundary",
+                    "wikidata": "Q193250",
+                    "wikipedia": "en:Bulawayo"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 80,
+        "City": "Tunis",
+        "Country": " Tunisia",
+        "Population": "638,845",
+        "Date of Estimate": 2014,
+        "osm": [
+            {
+                "id": 1435835,
+                "tags": {
+                    "ISO3166-2": "TN-11",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "long_name:ar": "ولاية تونس",
+                    "long_name:en": "Tunis Governorate",
+                    "long_name:fr": "Gouvernorat de Tunis",
+                    "long_name:it": "Governatorato di Tunisi",
+                    "name": "تونس",
+                    "name:ar": "تونس",
+                    "name:de": "Tunis",
+                    "name:en": "Tunis",
+                    "name:fr": "Tunis",
+                    "name:it": "Tunisi",
+                    "name:ko": "튀니스",
+                    "name:ru": "Тунис",
+                    "population": "983861",
+                    "ref:tn:codegeo": "11",
+                    "source:population": "INS TN 2004",
+                    "type": "boundary",
+                    "wikidata": "Q328109",
+                    "wikipedia": "ar:ولاية تونس"
+                },
+                "totalRoutes": "6"
+            }
+        ]
+    },
+    {
+        "Rank": 81,
+        "City": "Bangui",
+        "Country": " Central African Republic",
+        "Population": "622,771",
+        "Date of Estimate": 2003,
+        "osm": [
+            {
+                "id": 7322726,
+                "tags": {
+                    "ISO3166-2": "CF-BGF",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Bangî - Bangui",
+                    "name:ar": "بانغي",
+                    "name:en": "Bangui",
+                    "name:fr": "Bangui",
+                    "name:sg": "Bangî",
+                    "type": "boundary",
+                    "wikidata": "Q3832"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 82,
+        "City": "Evaton",
+        "Country": " South Africa",
+        "Population": "605,504",
+        "Date of Estimate": 2011,
+        "osm": []
+    },
+    {
+        "Rank": 83,
+        "City": "Durban",
+        "Country": " South Africa",
+        "Population": "595,061",
+        "Date of Estimate": 2011,
+        "osm": []
+    },
+    {
+        "Rank": 84,
+        "City": "Beira",
+        "Country": " Mozambique",
+        "Population": "592,090",
+        "Date of Estimate": 2017,
+        "osm": []
+    },
+    {
+        "Rank": 85,
+        "City": "Rabat",
+        "Country": " Morocco",
+        "Population": "577,827",
+        "Date of Estimate": 2014,
+        "osm": [
+            {
+                "id": 4730737,
+                "tags": {
+                    "ISO3166-2": "MA-04",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Rabat-Salé-Kénitra ⵔⴱⴰⵟ-ⵙⵍⴰ-ⵇⵏⵉⵟⵔⴰ الرباط-سلا-القنيطرة",
+                    "name:ar": "الرباط سلا القنيطرة",
+                    "name:ber": "ⵔⵔⴱⴰⵟ-ⵙⵍⴰ-ⵇⵏⵉⵟⵔⴰ",
+                    "name:cs": "Rabat-Salé-Kénitra",
+                    "name:en": "Rabat-Salé-Kenitra",
+                    "name:fr": "Rabat-Salé-Kénitra",
+                    "name:pl": "Rabat-Sala-Kenitra",
+                    "name:ru": "Рабат-Сале-Кенитра",
+                    "name:uk": "Рабат-Сале-Кенитра",
+                    "network": "Régions du Maroc",
+                    "population": "1061435",
+                    "population:date": "2014",
+                    "ref": "4",
+                    "ref:MA:HCP": "04.",
+                    "type": "boundary",
+                    "wikidata": "Q19951239",
+                    "wikipedia": "fr:Rabat-Salé-Kénitra"
+                },
+                "totalRoutes": "14"
+            }
+        ]
+    },
+    {
+        "Rank": 86,
+        "City": "El Mansoura",
+        "Country": " Egypt",
+        "Population": "570,271",
+        "Date of Estimate": 2018,
+        "osm": []
+    },
+    {
+        "Rank": 87,
+        "City": "Benghazi [2]",
+        "Country": " Libya",
+        "Population": "562,067",
+        "Date of Estimate": 2012,
+        "osm": []
+    },
+    {
+        "Rank": 88,
+        "City": "Warri",
+        "Country": " Nigeria",
+        "Population": "557,398",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 89,
+        "City": "El Mahalla el-Kubra",
+        "Country": " Egypt",
+        "Population": "543,271",
+        "Date of Estimate": 2018,
+        "osm": []
+    },
+    {
+        "Rank": 90,
+        "City": "Maiduguri",
+        "Country": " Nigeria",
+        "Population": "543,016",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 91,
+        "City": "Bouaké",
+        "Country": " Cote d'Ivoire",
+        "Population": "536,719",
+        "Date of Estimate": 2014,
+        "osm": []
+    },
+    {
+        "Rank": 92,
+        "City": "Ikorodu",
+        "Country": " Nigeria",
+        "Population": "535,619",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 93,
+        "City": "Aba",
+        "Country": " Nigeria",
+        "Population": "534,265",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 94,
+        "City": "Tanta",
+        "Country": " Egypt",
+        "Population": "528,670",
+        "Date of Estimate": 2018,
+        "osm": []
+    },
+    {
+        "Rank": 95,
+        "City": "Meknes",
+        "Country": " Morocco",
+        "Population": "520,428",
+        "Date of Estimate": 2014,
+        "osm": [
+            {
+                "id": 4730909,
+                "tags": {
+                    "ISO3166-2": "MA-03",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Fès-Meknès ⴼⴰⵙ-ⵎⴽⵏⴰⵙ فاس-مكناس",
+                    "name:ar": "فاس - مكناس",
+                    "name:ber": "ⴼⴰⵙ-ⵎⴽⵏⴰⵙ",
+                    "name:cs": "Fes-Meknes",
+                    "name:en": "Fez-Meknes",
+                    "name:es": "Fez-Mequinez",
+                    "name:fr": "Fès-Meknès",
+                    "name:pl": "Fez-Meknes",
+                    "name:ru": "Фес-Мекне́с",
+                    "name:uk": "Фес-Мекне́с",
+                    "network": "Régions du Maroc",
+                    "population": "4236892",
+                    "population:date": "2014",
+                    "ref": "3",
+                    "ref:MA:HCP": "03.",
+                    "type": "boundary",
+                    "wikidata": "Q19951027",
+                    "wikipedia": "fr:Fès-Meknès"
+                },
+                "totalRoutes": "10"
+            }
+        ]
+    },
+    {
+        "Rank": 96,
+        "City": "Ife",
+        "Country": " Nigeria",
+        "Population": "509,035",
+        "Date of Estimate": 2006,
+        "osm": []
+    },
+    {
+        "Rank": 97,
+        "City": "Zanzibar City",
+        "Country": " Tanzania",
+        "Population": "501,459",
+        "Date of Estimate": 2012,
+        "osm": [
+            {
+                "id": 1614023,
+                "tags": {
+                    "ISO3166-2": "TZ-15",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Unguja Mjini Magharibi",
+                    "name:ar": "زنجبار الحضرية / المقاطعة الغربية",
+                    "name:cs": "Zanzibar město a západ",
+                    "name:en": "Zanzibar Urban/West",
+                    "name:fa": "استان زنگبار شهری غربی",
+                    "name:pl": "Zanzibar Zachodni",
+                    "name:ru": "Занзибар Западный",
+                    "name:uk": "Занзібар Західний",
+                    "name:ur": "مجینی مغربی علاقہ",
+                    "type": "boundary",
+                    "wikidata": "Q180822",
+                    "wikipedia:en": "Mjini Magharibi Region"
+                },
+                "totalRoutes": "0"
+            },
+            {
+                "id": 1614022,
+                "tags": {
+                    "ISO3166-2": "TZ-07",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Unguja Kaskazini",
+                    "name:cs": "Zanzibar sever",
+                    "name:en": "Zanzibar North",
+                    "name:pl": "Zanzibar Północny",
+                    "name:ru": "Занзибар Северный",
+                    "name:uk": "Занзібар Північний",
+                    "type": "boundary",
+                    "wikidata": "Q147116",
+                    "wikipedia": "en:Unguja North Region"
+                },
+                "totalRoutes": "0"
+            },
+            {
+                "id": 1614020,
+                "tags": {
+                    "ISO3166-2": "TZ-11",
+                    "admin_level": "4",
+                    "boundary": "administrative",
+                    "name": "Unguja Kusini",
+                    "name:cs": "Zanzibar jih a střed",
+                    "name:en": "Zanzibar South & Central",
+                    "name:pl": "Zanzibar Południowy",
+                    "name:ru": "Занзибар Центрально-Южный",
+                    "name:uk": "Занзібар Центрально-Південний",
+                    "type": "boundary",
+                    "wikidata": "Q643120",
+                    "wikipedia": "en:Unguja South Region"
+                },
+                "totalRoutes": "0"
+            }
+        ]
+    },
+    {
+        "Rank": 98,
+        "City": "Kitwe",
+        "Country": " Zambia",
+        "Population": "501,360",
+        "Date of Estimate": 2010,
+        "osm": []
+    },
+    {
+        "Rank": 99,
+        "City": "Nansana",
+        "Country": " Uganda",
+        "Population": "499,900",
+        "Date of Estimate": 2019,
+        "osm": []
+    }
+]

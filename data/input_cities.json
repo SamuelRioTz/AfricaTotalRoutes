@@ -1,0 +1,695 @@
+[
+    {
+        "Rank": 1,
+        "City": "Lagos",
+        "Country": " Nigeria",
+        "Population": "21,320,000",
+        "Date of Estimate": 2019
+    },
+    {
+        "Rank": 2,
+        "City": "Kinshasa",
+        "Country": " Democratic Republic of the Congo",
+        "Population": "11,860,000",
+        "Date of Estimate": 2016
+    },
+    {
+        "Rank": 3,
+        "City": "Cairo",
+        "Country": " Egypt",
+        "Population": "9,500,000",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 4,
+        "City": "Giza Governorate",
+        "Country": " Egypt",
+        "Population": "8,800,000",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 5,
+        "City": "Johannesburg",
+        "Country": " South Africa",
+        "Population": "5,640,000",
+        "Date of Estimate": 2019
+    },
+    {
+        "Rank": 6,
+        "City": "Nairobi",
+        "Country": " Kenya",
+        "Population": "5,550,000",
+        "Date of Estimate": 2016
+    },
+    {
+        "Rank": 7,
+        "City": "Alexandria",
+        "Country": " Egypt",
+        "Population": "5,200,000",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 8,
+        "City": "Abidjan",
+        "Country": " Cote d'Ivoire",
+        "Population": "4,980,000",
+        "Date of Estimate": 2016
+    },
+    {
+        "Rank": 9,
+        "City": "Dar es Salaam",
+        "Country": " Tanzania",
+        "Population": "4,720,000",
+        "Date of Estimate": 2016
+    },
+    {
+        "Rank": 10,
+        "City": "Casablanca",
+        "Country": " Morocco",
+        "Population": "4,370,000",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 11,
+        "City": "Cape Town",
+        "Country": " South Africa",
+        "Population": "3,740,000",
+        "Date of Estimate": 2011
+    },
+    {
+        "Rank": 12,
+        "City": "Algiers",
+        "Country": " Algeria",
+        "Population": "3,420,000",
+        "Date of Estimate": 2011
+    },
+    {
+        "Rank": 13,
+        "City": "Addis Ababa",
+        "Country": " Ethiopia",
+        "Population": "3,040,000",
+        "Date of Estimate": 2012
+    },
+    {
+        "Rank": 14,
+        "City": "Kano",
+        "Country": " Nigeria",
+        "Population": "2,830,000",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 15,
+        "City": "Luanda",
+        "Country": " Angola",
+        "Population": "2,570,000",
+        "Date of Estimate": 2019
+    },
+    {
+        "Rank": 16,
+        "City": "Ibadan",
+        "Country": " Nigeria",
+        "Population": "2,560,000",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 17,
+        "City": "Aba",
+        "Country": " Nigeria",
+        "Population": "2,534,265",
+        "Date of Estimate": 2016
+    },
+    {
+        "Rank": 18,
+        "City": "Kumasi",
+        "Country": " Ghana",
+        "Population": "2,035,064",
+        "Date of Estimate": 2010
+    },
+    {
+        "Rank": 19,
+        "City": "Douala",
+        "Country": " Cameroon",
+        "Population": "1,906,962",
+        "Date of Estimate": 2005
+    },
+    {
+        "Rank": 20,
+        "City": "Omdurman",
+        "Country": " Sudan",
+        "Population": "1,849,659",
+        "Date of Estimate": 2008
+    },
+    {
+        "Rank": 21,
+        "City": "Yaoundé",
+        "Country": " Cameroon",
+        "Population": "1,817,524",
+        "Date of Estimate": 2005
+    },
+    {
+        "Rank": 22,
+        "City": "Bamako",
+        "Country": " Mali",
+        "Population": "1,816,366",
+        "Date of Estimate": 2009
+    },
+    {
+        "Rank": 23,
+        "City": "Lusaka",
+        "Country": " Zambia",
+        "Population": "1,747,152",
+        "Date of Estimate": 2010
+    },
+    {
+        "Rank": 24,
+        "City": "Pretoria",
+        "Country": " South Africa",
+        "Population": "1,736,336",
+        "Date of Estimate": 2011
+    },
+    {
+        "Rank": 25,
+        "City": "Conakry",
+        "Country": " Guinea",
+        "Population": "1,660,973",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 26,
+        "City": "Mogadishu",
+        "Country": " Somalia",
+        "Population": "1,650,227",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 27,
+        "City": "Kampala",
+        "Country": " Uganda",
+        "Population": "1,650,800",
+        "Date of Estimate": 2019
+    },
+    {
+        "Rank": 28,
+        "City": "Mombasa",
+        "Country": " Kenya",
+        "Population": "1,500,000",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 29,
+        "City": "Harare",
+        "Country": " Zimbabwe",
+        "Population": "1,485,231",
+        "Date of Estimate": 2012
+    },
+    {
+        "Rank": 30,
+        "City": "Lomé",
+        "Country": " Togo",
+        "Population": "1,477,658",
+        "Date of Estimate": 2010
+    },
+    {
+        "Rank": 31,
+        "City": "Ouagadougou",
+        "Country": " Burkina Faso",
+        "Population": "1,475,223",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 32,
+        "City": "Khartoum",
+        "Country": " Sudan",
+        "Population": "1,410,858",
+        "Date of Estimate": 2008
+    },
+    {
+        "Rank": 33,
+        "City": "Brazzaville",
+        "Country": " Republic of the Congo",
+        "Population": "1,373,382",
+        "Date of Estimate": 2007
+    },
+    {
+        "Rank": 34,
+        "City": "Antananarivo",
+        "Country": " Madagascar",
+        "Population": "1,334,300",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 35,
+        "City": "Lubumbashi",
+        "Country": " Democratic Republic of the Congo",
+        "Population": "1,283,380",
+        "Date of Estimate": 2004
+    },
+    {
+        "Rank": 36,
+        "City": "Kisumu",
+        "Country": " Kenya",
+        "Population": "1,268,826",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 37,
+        "City": "Mbuji-Mayi",
+        "Country": " Democratic Republic of the Congo",
+        "Population": "1,213,726",
+        "Date of Estimate": 2004
+    },
+    {
+        "Rank": 38,
+        "City": "Shubra el-Kheima",
+        "Country": " Egypt",
+        "Population": "1,187,747",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 39,
+        "City": "Dakar",
+        "Country": " Senegal",
+        "Population": "1,150,000",
+        "Date of Estimate": 2013
+    },
+    {
+        "Rank": 40,
+        "City": "Benin City",
+        "Country": " Nigeria",
+        "Population": "1,147,188",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 41,
+        "City": "Fez",
+        "Country": " Morocco",
+        "Population": "1,112,072",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 42,
+        "City": "Bujumbura",
+        "Country": " Burundi",
+        "Population": "1,112,057",
+        "Date of Estimate": 2019
+    },
+    {
+        "Rank": 43,
+        "City": "Freetown",
+        "Country": " Sierra Leone",
+        "Population": "1,055,964",
+        "Date of Estimate": 2015
+    },
+    {
+        "Rank": 44,
+        "City": "Maputo",
+        "Country": " Mozambique",
+        "Population": "1,032,197",
+        "Date of Estimate": 2017
+    },
+    {
+        "Rank": 45,
+        "City": "Monrovia",
+        "Country": " Liberia",
+        "Population": "1,021,762",
+        "Date of Estimate": 2008
+    },
+    {
+        "Rank": 46,
+        "City": "Khartoum North",
+        "Country": " Sudan",
+        "Population": "1,012,211",
+        "Date of Estimate": 2008
+    },
+    {
+        "Rank": 47,
+        "City": "Port Harcourt",
+        "Country": " Nigeria",
+        "Population": "1,005,904",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 48,
+        "City": "Lilongwe",
+        "Country": " Malawi",
+        "Population": "989,318",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 49,
+        "City": "Niamey",
+        "Country": " Niger",
+        "Population": "978,029",
+        "Date of Estimate": 2012
+    },
+    {
+        "Rank": 50,
+        "City": "Nouakchott",
+        "Country": " Mauritania",
+        "Population": "958,399",
+        "Date of Estimate": 2013
+    },
+    {
+        "Rank": 51,
+        "City": "N'Djamena",
+        "Country": " Chad",
+        "Population": "951,418",
+        "Date of Estimate": 2009
+    },
+    {
+        "Rank": 52,
+        "City": "Tangier",
+        "Country": " Morocco",
+        "Population": "947,952",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 53,
+        "City": "Tripoli [1]",
+        "Country": " Libya",
+        "Population": "940,523",
+        "Date of Estimate": 2012
+    },
+    {
+        "Rank": 54,
+        "City": "Marrakesh",
+        "Country": " Morocco",
+        "Population": "928,850",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 55,
+        "City": "Salé",
+        "Country": " Morocco",
+        "Population": "890,403",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 56,
+        "City": "Port Elizabeth",
+        "Country": " South Africa",
+        "Population": "876,436",
+        "Date of Estimate": 2011
+    },
+    {
+        "Rank": 57,
+        "City": "Kigali",
+        "Country": " Rwanda",
+        "Population": "859,033",
+        "Date of Estimate": 2012
+    },
+    {
+        "Rank": 58,
+        "City": "Jos",
+        "Country": " Nigeria",
+        "Population": "821,608",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 59,
+        "City": "Oran",
+        "Country": " Algeria",
+        "Population": "803,329",
+        "Date of Estimate": 2008
+    },
+    {
+        "Rank": 60,
+        "City": "Blantyre",
+        "Country": " Malawi",
+        "Population": "800,264",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 61,
+        "City": "Ilorin",
+        "Country": " Nigeria",
+        "Population": "777,667",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 62,
+        "City": "Abuja",
+        "Country": " Nigeria",
+        "Population": "776,298",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 63,
+        "City": "Asmara",
+        "Country": " Eritrea",
+        "Population": "775,000",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 64,
+        "City": "Port Said",
+        "Country": " Egypt",
+        "Population": "760,152",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 65,
+        "City": "Kaduna",
+        "Country": " Nigeria",
+        "Population": "760,084",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 66,
+        "City": "Touba",
+        "Country": " Senegal",
+        "Population": "753,315",
+        "Date of Estimate": 2013
+    },
+    {
+        "Rank": 67,
+        "City": "Hargeisa",
+        "Country": " Somalia /  Somaliland",
+        "Population": "741,000",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 68,
+        "City": "Suez",
+        "Country": " Egypt",
+        "Population": "740,874",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 69,
+        "City": "Soshanguve",
+        "Country": " South Africa",
+        "Population": "728,063",
+        "Date of Estimate": 2011
+    },
+    {
+        "Rank": 70,
+        "City": "Enugu",
+        "Country": " Nigeria",
+        "Population": "722,664",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 71,
+        "City": "Kananga",
+        "Country": " Democratic Republic of the Congo",
+        "Population": "720,362",
+        "Date of Estimate": 2004
+    },
+    {
+        "Rank": 72,
+        "City": "Pointe-Noire",
+        "Country": " Republic of the Congo",
+        "Population": "715,334",
+        "Date of Estimate": 2007
+    },
+    {
+        "Rank": 73,
+        "City": "Mwanza",
+        "Country": " Tanzania",
+        "Population": "706,453",
+        "Date of Estimate": 2012
+    },
+    {
+        "Rank": 74,
+        "City": "Libreville",
+        "Country": " Gabon",
+        "Population": "703,940",
+        "Date of Estimate": 2013
+    },
+    {
+        "Rank": 75,
+        "City": "Zaria",
+        "Country": " Nigeria",
+        "Population": "695,089",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 76,
+        "City": "Kisangani",
+        "Country": " Democratic Republic of the Congo",
+        "Population": "682,599",
+        "Date of Estimate": 2004
+    },
+    {
+        "Rank": 77,
+        "City": "Cotonou",
+        "Country": " Benin",
+        "Population": "679,012",
+        "Date of Estimate": 2013
+    },
+    {
+        "Rank": 78,
+        "City": "Nampula",
+        "Country": " Mozambique",
+        "Population": "663,212",
+        "Date of Estimate": 2017
+    },
+    {
+        "Rank": 79,
+        "City": "Bulawayo",
+        "Country": " Zimbabwe",
+        "Population": "653,337",
+        "Date of Estimate": 2012
+    },
+    {
+        "Rank": 80,
+        "City": "Tunis",
+        "Country": " Tunisia",
+        "Population": "638,845",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 81,
+        "City": "Bangui",
+        "Country": " Central African Republic",
+        "Population": "622,771",
+        "Date of Estimate": 2003
+    },
+    {
+        "Rank": 82,
+        "City": "Evaton",
+        "Country": " South Africa",
+        "Population": "605,504",
+        "Date of Estimate": 2011
+    },
+    {
+        "Rank": 83,
+        "City": "Durban",
+        "Country": " South Africa",
+        "Population": "595,061",
+        "Date of Estimate": 2011
+    },
+    {
+        "Rank": 84,
+        "City": "Beira",
+        "Country": " Mozambique",
+        "Population": "592,090",
+        "Date of Estimate": 2017
+    },
+    {
+        "Rank": 85,
+        "City": "Rabat",
+        "Country": " Morocco",
+        "Population": "577,827",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 86,
+        "City": "El Mansoura",
+        "Country": " Egypt",
+        "Population": "570,271",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 87,
+        "City": "Benghazi [2]",
+        "Country": " Libya",
+        "Population": "562,067",
+        "Date of Estimate": 2012
+    },
+    {
+        "Rank": 88,
+        "City": "Warri",
+        "Country": " Nigeria",
+        "Population": "557,398",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 89,
+        "City": "El Mahalla el-Kubra",
+        "Country": " Egypt",
+        "Population": "543,271",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 90,
+        "City": "Maiduguri",
+        "Country": " Nigeria",
+        "Population": "543,016",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 91,
+        "City": "Bouaké",
+        "Country": " Cote d'Ivoire",
+        "Population": "536,719",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 92,
+        "City": "Ikorodu",
+        "Country": " Nigeria",
+        "Population": "535,619",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 93,
+        "City": "Aba",
+        "Country": " Nigeria",
+        "Population": "534,265",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 94,
+        "City": "Tanta",
+        "Country": " Egypt",
+        "Population": "528,670",
+        "Date of Estimate": 2018
+    },
+    {
+        "Rank": 95,
+        "City": "Meknes",
+        "Country": " Morocco",
+        "Population": "520,428",
+        "Date of Estimate": 2014
+    },
+    {
+        "Rank": 96,
+        "City": "Ife",
+        "Country": " Nigeria",
+        "Population": "509,035",
+        "Date of Estimate": 2006
+    },
+    {
+        "Rank": 97,
+        "City": "Zanzibar City",
+        "Country": " Tanzania",
+        "Population": "501,459",
+        "Date of Estimate": 2012
+    },
+    {
+        "Rank": 98,
+        "City": "Kitwe",
+        "Country": " Zambia",
+        "Population": "501,360",
+        "Date of Estimate": 2010
+    },
+    {
+        "Rank": 99,
+        "City": "Nansana",
+        "Country": " Uganda",
+        "Population": "499,900",
+        "Date of Estimate": 2019
+    }
+]
